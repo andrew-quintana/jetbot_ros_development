@@ -1,0 +1,11 @@
+build/
+devel/
+install/
+logs/
+.catkin_workspace
+.catkin_tools/
+.rosinstall
+.rosinstall.bak
+.rosinstall.local
+.rosinstall.local.bak
+.vscode/
