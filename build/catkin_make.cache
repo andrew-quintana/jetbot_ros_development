@@ -1,0 +1,2 @@
+gscam:jetbot_pro:jetson_csi_cam:rplidar_ros
+-DCATKIN_DEVEL_PREFIX=/home/jetbot/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jetbot/catkin_ws/install -G Unix Makefiles
